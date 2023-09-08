@@ -1,0 +1,249 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: #052d61;
+    padding-bottom: 30px;
+}
+.navbar-brand{
+    margin-right: 570px !important;
+    color: #f3ebeb !important;
+}
+.nav-link{
+    color: #f3ebeb !important;
+    margin-right: 10px;
+}
+.btn-nav{
+    background-color: #f02389;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    color: #f3ebeb;
+    width: 120px;
+}
+.header-sub{
+    margin-top: 80px;
+    /* background-color: #f02389; */
+}
+.title-text{
+    color: #f3ebeb;
+    font-size: 18px;
+}
+.title{
+    color: #f3ebeb;
+    font-size: 60px;
+}
+.title-sub{
+    color: #f3ebeb;
+    margin-top: 20px;
+
+}
+.nav-title{
+    margin-right: 10px;
+}
+.btn-title{
+    background-color: #052d61;
+    border: 2px solid #f02389;
+}
+.header-img{
+    width: 369px;
+    height: 450px;
+} 
+.h-img{
+    margin-left: 50px;
+}
+.features{
+    text-align: center;
+}
+.p-img{
+    width: 369px;
+    height: 450px;
+}
+.card{
+    border:1px solid #f02389 !important;
+    position: relative;
+}
+.card-title-product{
+    font-weight: 700;
+    color: #28292a;
+}
+.bi-check-circle-fill{
+    margin-right: 10px;
+    font-size: 18px;
+    color: #f02389;
+}
+.about-title{
+    font-weight: 700;
+    color: #28292a;
+    margin-bottom: 15px;
+
+}
+.about-img{
+    margin-left: 50px;
+}
+.about-main{
+    margin-top: 80px;
+    background-color: #ebebeb;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.about-watch{
+    width: 375px;
+    height: 430px;
+}
+.about-txt{
+    color: #f02389;
+    font-weight: 500;
+}
+.series{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.s-txt{
+    color: #28292a;
+    font-weight: 700;
+}
+.series-watch{
+    width: 350px;
+    height: 350px;
+}
+.card-products{
+    border: none !important;
+    text-align: center;
+}
+.card-img1{
+    height: 200px;
+    width: 170px;
+}
+.card-img2{
+    height: 200px;
+    width: 170px;
+}
+.card-img3{
+    height: 200px;
+    width: 170px;  
+}
+.card-price{
+    color: #f02389;
+}
+.page{
+    margin-left: 550px;
+}
+.btn-page{
+    margin-right: 5px;
+    background-color: #f02389;
+    border-radius: 4px;
+    border: none;
+    color: #f3ebeb !important;
+}
+.stack{
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.sub-title{
+    font-weight: 700;
+    color: #28292a;
+}
+.cost{
+    color: #f02389 !important;
+    font-weight: 700;
+}
+.price{
+    font-weight: 700;
+}
+.man-cont{
+    outline: thick solid #f02389;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    position: absolute;
+    left: 150px;
+    border-radius: 30px;
+    top:-20px;
+}
+.man2-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+
+}
+.man3-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+
+}
+.man1-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+
+}
+.comment{
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+.date{
+    font-weight:500;
+}
+.fAQ{
+    border: 1px solid #28292a;
+    padding-left: 20px;
+    font-weight: 500;
+    font-size: 16px;
+}
+.expenses{
+    border: #f02389 1px solid !important;
+}
+.footer{
+    background-color: #052d61;
+    padding-bottom: 20px;
+    margin-top: 80px;
+    padding-top:40px ;
+    color: #f3ebeb;
+}
+.sm-img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.nav-list{
+    text-decoration: none;
+    color: #f3ebeb;
+}
+li{
+    list-style: none;
+    margin-bottom: 7px;
+}
+.f-icon{
+    margin-right: 15px;
+}
+.f-login{
+    padding: 7px;
+    background-color: #f3ebeb;
+    border-radius: 5px;
+    width: 240px;
+}
+.email{
+    border: none !important;
+    background-color: #f3ebeb;
+}
+.email:focus{
+    outline: 0px !important;
+}
+ .f-btn{
+    background-color: #f02389;
+    width: 65px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+    /* height: 40px; */
+    }   
+    .bi-send-fill{
+        color: #f3ebeb;
+    } 
